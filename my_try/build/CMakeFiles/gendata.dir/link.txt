@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/gendata.dir/gen_data/generate.cpp.o  -o gendata 
